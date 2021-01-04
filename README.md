@@ -32,3 +32,8 @@ Remember also to answer all written questions in the exercise, in addition to th
  - [Problem 3 - Markdown practice (2 points)](Exercise-2.ipynb)
  
 Start the exercise by opening **[this notebook](Exercise-2.ipynb)**.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wkiersten/exercise-2.git/HEAD)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/wkiersten/exercise-2.git/HEAD
